@@ -1,25 +1,11 @@
 
-# Project Title
+# Just Swipe
 
-A brief description of what this project does and who it's for
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
+Just Swipe is a simple site that allows you to browse between photo and video subreddits easily.
 
 ## Demo
 
-Insert gif or link to demo
+https://just-swipe.vercel.app/
 
 
 ## Run Locally
@@ -27,13 +13,13 @@ Insert gif or link to demo
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/iapheus/JustSwipe.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd JustSwipe
 ```
 
 Install dependencies
@@ -45,7 +31,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
 
